@@ -2,7 +2,7 @@ name: Price Tracker
 
 on:
   schedule:
-     - cron: "* * * * *"    # Runs every 2 hours
+     - cron: "*/5 * * * *"    
   workflow_dispatch:         # Manual run button
 
 jobs:
