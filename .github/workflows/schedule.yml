@@ -2,8 +2,7 @@ name: Price Tracker
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Run every 5 minutes
-  workflow_dispatch:         # Manual run button, optional, but useful for triggering manually
+    - cron: "*/1 * * * *"  # Run every 5 minutes
 
 jobs:
   run-script:
