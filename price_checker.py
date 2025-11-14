@@ -95,7 +95,7 @@ def main():
 
             msg = f"""
 PRICE DROP ALERT 🔥
-
+name of product: {name}
 URL: {url}
 
 Old Price: ₹{old_price}
