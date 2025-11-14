@@ -1,0 +1,14 @@
+[
+    {
+        "name":"",
+        "url": "https://www.amazon.in/dp/EXAMPLE1",
+        "last_price": 0,
+        "history": []
+    },
+    {
+        "name":"",
+        "url": "https://www.flipkart.com/item/EXAMPLE2",
+        "last_price": 0,
+        "history": []
+    }
+]
