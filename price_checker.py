@@ -25,9 +25,9 @@ def extract_price(url):
 
 
 def send_email(message):
-    sender = "YOUR_EMAIL@gmail.com"
-    password = "YOUR_APP_PASSWORD"
-    receiver = "YOUR_EMAIL@gmail.com"
+    sender = "aamirkhanafrin786@gmail.com"
+    password = "xxkb qcvc cezp jxcs"
+    receiver = "aamirkhanafrin786@gmail.com"
 
     msg = MIMEText(message)
     msg["Subject"] = "Price Drop Alert"
